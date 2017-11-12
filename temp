@@ -1,0 +1,4 @@
+def abc(name):
+  print('hi '+name+" it's nice 2 meet u")
+
+abc('naushil')
